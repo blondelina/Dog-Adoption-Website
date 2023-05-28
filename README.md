@@ -39,10 +39,10 @@ To run the Dog Management System, follow the steps below:
 
 Some screenshots of the website:
 
-![Screenshot (283)](https://github.com/blondelina/Dog-Adoption-Website/assets/76914882/08b43565-2e14-4808-8788-aa5ad2b7ac96)
-![Screenshot (284)](https://github.com/blondelina/Dog-Adoption-Website/assets/76914882/88dc5a07-36d5-4575-8f50-70634638296b)
-![Screenshot (285)](https://github.com/blondelina/Dog-Adoption-Website/assets/76914882/8874724f-a435-4d78-a71b-78f3715e1c5d)
+![Screenshot (283)](https://github.com/blondelina/Dog-Adoption-Website/assets/76914882/fb985a10-41cc-478d-afed-950b00a0225f)
+![Screenshot (284)](https://github.com/blondelina/Dog-Adoption-Website/assets/76914882/4bb1a79b-9d20-42e4-83f8-30255c734adf)
+![Screenshot (285)](https://github.com/blondelina/Dog-Adoption-Website/assets/76914882/8278213a-1cf6-430e-a5a9-9cd3c3180c56)
 
 The admin view:
-![Screenshot (286)](https://github.com/blondelina/Dog-Adoption-Website/assets/76914882/0e4a72c5-0f80-4561-b5b4-6082a135c522)
-![Screenshot (287)](https://github.com/blondelina/Dog-Adoption-Website/assets/76914882/94e549a0-745a-47a2-8c40-5d8c69d1f301)
+![Screenshot (286)](https://github.com/blondelina/Dog-Adoption-Website/assets/76914882/a6e73da5-ccbd-4e3d-8cf9-8244348ef196)
+![Screenshot (287)](https://github.com/blondelina/Dog-Adoption-Website/assets/76914882/70538e6d-b288-453d-8a2a-fab1fe6a3c8a)
