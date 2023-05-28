@@ -21,7 +21,7 @@ This is a web application designed to help people adopt dogs. It provides a user
 
 ## Getting Started
 
-To run the Dog Management System, follow the steps below:
+To run the Dog Management System locally, follow the steps below:
 
 1. **Download and Install XAMPP:** Visit the official XAMPP website (https://www.apachefriends.org) and download the XAMPP installer.
 
